@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o}from"./index-aacf4f9c.js";const c={data(){return{}}},a={class:"container"},n=o("h1",null,"訂單列表",-1),r=[n];function _(d,i,p,l,f,u){return t(),s("div",a,r)}const m=e(c,[["render",_]]);export{m as default};
